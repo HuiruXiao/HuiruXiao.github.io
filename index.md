@@ -20,7 +20,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Academic Service
 
-- Conference Reviewer: ACL'21, EMNLP'21, ICLR'22, ICML'21, NeurIPS'20,21.
+- Conference Reviewer: ACL'21, EMNLP'21, ICLR'22, ICML'21, NeurIPS'20,21, ACL Rolling'22, EMNLP'22.
 - Conference External Reviewer: ACL'19, EMNLP'19, IJCAI'19,20, KDD'19,21.
 - Conference Volunteer: IJCAI'19.
 
