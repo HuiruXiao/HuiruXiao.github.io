@@ -1,6 +1,8 @@
 ## About me
 
-I am Huiru Xiao, a Ph.D. candidate at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are machine learning and natural language processing. I am interested in geometric learning for knowledge graph representations.
+I am Huiru Xiao, an instructional assistant in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
+
+I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are machine learning and natural language processing. I am interested in geometric learning for knowledge graph representations.
 
 I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 2016. 
 
@@ -15,6 +17,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Research Internship
 
+- Research intern in **NVIDIA**, March 2022 - September 2022.
 - Algorithm engineer intern in **Ant Group**, July 2020 - September 2020.
 - Research intern in **Carnegie Mellon University**, August 2015 - September 2015.
 
