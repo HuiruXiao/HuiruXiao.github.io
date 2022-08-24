@@ -17,7 +17,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Research Internship
 
-- Research intern in **NVIDIA**, March 2022 - September 2022.
+- Research intern in **NVIDIA**, March 2022 - August 2022.
 - Algorithm engineer intern in **Ant Group**, July 2020 - September 2020.
 - Research intern in **Carnegie Mellon University**, August 2015 - September 2015.
 
