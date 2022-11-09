@@ -8,6 +8,8 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Publications
 
+- **Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform** \
+**Huiru Xiao**, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See. *EMNLP*, 2022. [[pdf](https://arxiv.org/pdf/2211.03635v1.pdf)][[code](https://github.com/HKUST-KnowComp/ComplexHyperbolicKGE)]
 - **Unit Ball Model for Embedding Hierarchical Structures in the Complex Hyperbolic Space** \
 **Huiru Xiao**, Caigao Jiang, Yangqiu Song, James Zhang, Junwu Xiong. *preprint*, 2021. [[pdf](https://arxiv.org/pdf/2105.03966.pdf)][[code](https://github.com/HKUST-KnowComp/UnitBall)]
 - **Manifold Alignment across Geometric Spaces for Knowledge Base Representation Learning** \
@@ -29,5 +31,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Teaching Experience
 
+- Instructional assistant of COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2022.
+- Instructional assistant of COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2022.
 - Teaching assistant of COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2017, Spring 2018, Fall 2019.
 - Teaching assistant of COMP3721: Theory of Computation, in HKUST, Fall 2017.
