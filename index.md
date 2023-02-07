@@ -2,7 +2,7 @@
 
 I am Huiru Xiao, an instructional assistant in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
 
-I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are machine learning and natural language processing. I am interested in geometric learning for knowledge graph representations.
+I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are machine learning and natural language processing. I am interested in geometric learning for knowledge graph representations. My thesis title is Learning with Hierarchical Data.
 
 I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 2016. 
 
@@ -25,13 +25,14 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Academic Service
 
-- Conference Reviewer: ACL'21,22, EMNLP'21,22, ICLR'22, ICML'21, NeurIPS'20,21.
+- Conference Reviewer: ACL'21,22, EMNLP'21,22, ICLR'22, ICML'21,23, NeurIPS'20,21.
 - Conference External Reviewer: ACL'19, EMNLP'19, IJCAI'19,20, KDD'19,21.
 - Conference Volunteer: IJCAI'19.
 
 ## Teaching Experience
 
-- Instructional assistant of COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2022.
-- Instructional assistant of COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2022.
+- Instructional assistant of COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2022, Spring 2023.
+- Instructional assistant of COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2022, Spring 2023.
+- Instructional assistant of USTM25: Cloud Services in Azure, in HKUST, Winter 2022.
 - Teaching assistant of COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2017, Spring 2018, Fall 2019.
 - Teaching assistant of COMP3721: Theory of Computation, in HKUST, Fall 2017.
