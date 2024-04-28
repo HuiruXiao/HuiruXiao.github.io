@@ -9,8 +9,10 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 ## Teaching Experience
 
 ### Lecturer (August 2023 - Present)
-- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023.
+- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024.
+- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024.
 - COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023.
+- USTM25: Cloud Services in Azure, in HKUST, Winter 2023.
 
 ### Instructional Assistant (September 2022 - August 2023)
 - COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2022, Spring 2023.
