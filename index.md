@@ -9,9 +9,10 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 ## Teaching Experience
 
 ### Lecturer (August 2023 - Present)
-- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024.
+- COMP1944: Artificial Intelligence Ethics, in HKUST, Fall 2024.
+- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024.
 - COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024.
-- COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023.
+- COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023, Fall 2024.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2023.
 
 ### Instructional Assistant (September 2022 - August 2023)
@@ -42,6 +43,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Academic Service
 
+- Journal Reviewer: IEEE Transactions on Vehicular Technology
 - Conference Reviewer: ACL'21,22, EMNLP'21,22, ICLR'22, ICML'21,23, NeurIPS'20,21.
 - Conference External Reviewer: ACL'19, EMNLP'19, IJCAI'19,20, KDD'19,21.
 - Conference Volunteer: IJCAI'19.
