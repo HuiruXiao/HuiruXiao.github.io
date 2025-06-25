@@ -10,8 +10,8 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ### Lecturer (August 2023 - Present)
 - COMP1944: Artificial Intelligence Ethics, in HKUST, Fall 2024.
-- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024.
-- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024.
+- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024, Spring 2025.
+- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024, Spring 2025.
 - COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023, Fall 2024.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2023.
 
@@ -20,9 +20,33 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 - COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2022, Spring 2023.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2022, Summer 2023.
 
-### Teaching Assistant (during Ph.D. study)
-- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2017, Spring 2018, Fall 2019.
-- COMP3721: Theory of Computation, in HKUST, Fall 2017.
+## Project Supervision
+### 2025-2026, in HKUST
+#### Exploring LLMs' Reasoning Capabilities of Answering Riddles
+- Students: CHENG Zi Hao, LI Haoyuan, SY Ming Lung, ZHU Fei Hao.
+#### Development of an AI-Powered Health Application for Physical and Mental Well-Being
+- Students: CHEUNG Tsz Ching, CHIU Chung Yiu, LO Nga Ching, SUN Yee.
+#### Web-Based Multilingual Chatbot for Language Coaching
+- Co-supervised with [Dr. Desmond Yau-chat Tsoi](https://cse.hkust.edu.hk/~desmond/).
+- Students: HUSEIN Wilson Christopher, MULYANTO Nevio Justin, WIDJAJA Meidyana Audrey.
+#### Co-op Program: News Signals Identification
+- Deloitte program.
+- Student: ALI Shahman.
+#### Co-op Program: Data Analytics - Deloitte Forensic
+- Deloitte program.
+- Student: RANASINGHE Yehan Lakvindu.
+
+### 2024-2025, in HKUST
+#### Measuring GPT Gender Bias
+- Students: LEUNG Kam Ming, YEUNG Tsz Yuet, YIU Tin Cheung Ivan.
+#### Culturally-Aware Chatbots for Addressing School Bullying
+- Students: CHENG Man Him, LIN Junming, MA Zepeng, MIU Victor.
+#### Development of a Locally Running Personal AI Assistant for Enhanced Computer Interaction
+- Students: CHIU Ho Sun, LAM Ngai Shun, LAU Chit Shing, LEUNG Ka Sing.
+- HKSTP Ideation Programme.
+#### Co-op Program: Discovery Data Management & Analytics - News Monitoring with NLP and GenAI
+- Deloitte program.
+- Student: TAYDEY Charline.
 
 ## Publications
 
