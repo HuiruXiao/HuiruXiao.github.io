@@ -9,10 +9,11 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 ## Teaching Experience
 
 ### Lecturer (August 2023 - Present)
-- COMP1944: Artificial Intelligence Ethics, in HKUST, Fall 2024.
-- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024, Spring 2025.
-- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024, Spring 2025.
-- COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023, Fall 2024.
+- COMP1944: Artificial Intelligence Ethics, in HKUST, Fall 2024, Fall 2025.
+- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026.
+- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024, Spring 2025, Spring 2026.
+- COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023, Fall 2024, Spring 2026.
+- MAIE5103: Artificial Intelligence Ethics, in HKUST, Fall 2025.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2023.
 
 ### Instructional Assistant (September 2022 - August 2023)
@@ -33,6 +34,11 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 #### Web-Based Multilingual Chatbot for Language Coaching
 - Co-supervised with [Dr. Desmond Yau-chat Tsoi](https://cse.hkust.edu.hk/~desmond/).
 - Students: HUSEIN Wilson Christopher, MULYANTO Nevio Justin, WIDJAJA Meidyana Audrey.
+
+#### AI Driven Data Research in Quantitative Finance
+- Co-supervised with Prof. Wei Jiang.
+- Co-supervision project with WorldQuant.
+- Student: HUNG Tin Ching. 
 
 #### Co-op Program: News Signals Identification
 - Deloitte program.
@@ -77,6 +83,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 
 ## Academic Service
 
+- Textbook Proposal Reviewer for MIT Press: 2026.
 - Journal Reviewer: IEEE Transactions on Vehicular Technology
 - Conference Reviewer: ACL'21,22, EMNLP'21,22, ICLR'22, ICML'21,23, NeurIPS'20,21.
 - Conference External Reviewer: ACL'19, EMNLP'19, IJCAI'19,20, KDD'19,21.
