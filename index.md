@@ -1,4 +1,8 @@
-## About me
+<p align="center">
+  <img src="/img/tramways.jpeg" alt="Huiru Xiao" style="width: 355px; height: 266px; border-radius: 50%; object-fit: cover; border: 3px solid #155799;">
+</p>
+
+## Huiru Xiao 肖慧如
 
 I am Huiru Xiao, a lecturer in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
 
