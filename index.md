@@ -2,7 +2,7 @@
 
 I am Huiru Xiao, a lecturer in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
 
-I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are machine learning and natural language processing. I am interested in geometric learning for knowledge graph representations. My thesis title is Learning with Hierarchical Data.
+I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are artificial intelligence, machine learning, and natural language processing. I am interested in geometric learning for knowledge graph representations. My thesis title is Learning with Hierarchical Data.
 
 I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 2016. 
 
@@ -65,7 +65,8 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 - Student: TAYDEY Charline.
 
 ## Publications
-
+- **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion** \
+Ying Su, Tianqing Fang, **Huiru Xiao**, Weiqi Wang, Yangqiu Song, Tong Zhang, Lei Chen. *preprint*, 2024. [[pdf](https://arxiv.org/abs/2402.09666)]
 - **Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform** \
 **Huiru Xiao**, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See. *EMNLP*, 2022. [[pdf](https://arxiv.org/pdf/2211.03635v1.pdf)][[code](https://github.com/HKUST-KnowComp/ComplexHyperbolicKGE)]
 - **Unit Ball Model for Embedding Hierarchical Structures in the Complex Hyperbolic Space** \
@@ -84,7 +85,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 ## Academic Service
 
 - Textbook Proposal Reviewer for MIT Press: 2026.
-- Journal Reviewer: IEEE Transactions on Vehicular Technology
+- Journal Reviewer: IEEE Transactions on Vehicular Technology, 2023-2024.
 - Conference Reviewer: ACL'21,22, EMNLP'21,22, ICLR'22, ICML'21,23, NeurIPS'20,21.
 - Conference External Reviewer: ACL'19, EMNLP'19, IJCAI'19,20, KDD'19,21.
 - Conference Volunteer: IJCAI'19.
