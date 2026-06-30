@@ -1,7 +1,6 @@
 encoding: "utf-8"
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Huiru Xiao 肖慧如
-
-email: "huiruxiao@proton.me"
+description: Contact: huiruxiao@proton.me
 logo: /img/tramways.jpeg
