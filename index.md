@@ -1,24 +1,29 @@
 <p align="center">
-  <img src="/img/tramways.jpeg" alt="Huiru Xiao" style="width: 355px; height: 266px; border-radius: 50%; object-fit: cover; border: 3px solid #155799;">
+  <img src="/img/tramways.jpeg" alt="Huiru Xiao" style="width: 355px; height: 266px; border-radius: 60%; object-fit: cover; border: 3px solid #155799;">
 </p>
 
 ## Huiru Xiao 肖慧如
 
-I am Huiru Xiao, a lecturer in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
+I am Huiru Xiao, a researcher and educator in Machine Learning and Artificial Intelligence field. My research topic is natural language processing. I am interested in geometric representation learning, ethical and responsible artificial intelligence.
 
-I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research topics are artificial intelligence, machine learning, and natural language processing. I am interested in geometric learning for knowledge graph representations. My thesis title is Learning with Hierarchical Data.
+**I am actively looking for research and/or teaching opportunities and collaborations!**
+
+I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My thesis title is [Learning with Hierarchical Data](https://repository.hkust.edu.hk/ir/bitstream/1783.1-134061/1/991013114550503412.pdf).
 
 I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 2016. 
 
 ## Teaching Experience
 
-### Lecturer (August 2023 - Present)
+### Lecturer (August 2023 - August 2026)
+#### Undergraduate Courses
 - COMP1944: Artificial Intelligence Ethics, in HKUST, Fall 2024, Fall 2025.
 - COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026.
 - COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024, Spring 2025, Spring 2026.
 - COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023, Fall 2024, Spring 2026.
-- MAIE5103: Artificial Intelligence Ethics, in HKUST, Fall 2025.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2023.
+
+#### Postgraduate Courses
+- MAIE5103: Artificial Intelligence Ethics, in HKUST, Fall 2025.
 
 ### Instructional Assistant (September 2022 - August 2023)
 - COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2022, Spring 2023.
