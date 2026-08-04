@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="/img/tramways.jpeg" alt="Huiru Xiao" style="width: 355px; height: 266px; border-radius: 60%; object-fit: cover; border: 3px solid #155799;">
+  <img src="/img/tramways.jpeg" alt="Huiru Xiao" style="width: 355px; height: 266px; border-radius: 50%; object-fit: cover; border: 3px solid #155799;">
 </p>
 
 ## Huiru Xiao 肖慧如
 
-I am Huiru Xiao, a researcher and educator in Machine Learning and Artificial Intelligence field. My research topic is natural language processing. I am interested in geometric representation learning, ethical and responsible artificial intelligence.
+I am Huiru Xiao, a researcher and educator in the filed of Machine Learning and Artificial Intelligence. My research topic is natural language processing. I am interested in geometric representation learning, ethical and responsible artificial intelligence.
 
 **I am actively looking for research and/or teaching opportunities and collaborations!**
 
-I obtaind my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My thesis title is [Learning with Hierarchical Data](https://repository.hkust.edu.hk/ir/bitstream/1783.1-134061/1/991013114550503412.pdf).
+I obtained my Ph.D. degree in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2022, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My thesis title is [Learning with Hierarchical Data](https://repository.hkust.edu.hk/ir/bitstream/1783.1-134061/1/991013114550503412.pdf).
 
 I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 2016. 
 
