@@ -17,8 +17,8 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 ### Lecturer (August 2023 - August 2026)
 #### Undergraduate Courses
 - COMP1944: Artificial Intelligence Ethics, in HKUST, Fall 2024, Fall 2025.
-- COMP2211: Exploring Artificial Intelligence, in HKUST, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026.
-- COMP3211: Fundamentals of Artificial Intelligence, in HKUST, Spring 2024, Spring 2025, Spring 2026.
+- COMP2211: Introduction to Artificial Intelligence (*previous name: Exploring Artificial Intelligence*), in HKUST, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026.
+- COMP3211: Learning, Reasoning, and Decision Making in AI (*previous name: Fundamentals of Artificial Intelligence*), in HKUST, Spring 2024, Spring 2025, Spring 2026.
 - COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2023, Fall 2024, Spring 2026.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2023.
 
@@ -30,7 +30,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 - COMP3711: Design and Analysis of Algorithms, in HKUST, Fall 2022, Spring 2023.
 - USTM25: Cloud Services in Azure, in HKUST, Winter 2022, Summer 2023.
 
-## Project Supervision
+## Research Supervision & Project Leadership
 
 ### 2025-2026, in HKUST
 
@@ -49,13 +49,10 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 - Co-supervision project with WorldQuant.
 - Student: HUNG Tin Ching. 
 
-#### Co-op Program: News Signals Identification
-- Deloitte program.
-- Student: ALI Shahman.
+#### Co-op Program: Source of Wealth Identification: Agentic AI for Source of Wealth Due Diligence in Private Banking
 
-#### Co-op Program: Data Analytics - Deloitte Forensic
 - Deloitte program.
-- Student: RANASINGHE Yehan Lakvindu.
+- Students: ALI Shahman, RANASINGHE Yehan Lakvindu.
 
 ### 2024-2025, in HKUST
 
