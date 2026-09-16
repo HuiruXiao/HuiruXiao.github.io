@@ -66,7 +66,7 @@ I obtained my B.Sc. degree in Mathematics and Physics, Tsinghua University in 20
 - Students: CHIU Ho Sun, LAM Ngai Shun, LAU Chit Shing, LEUNG Ka Sing.
 - HKSTP Ideation Programme.
 
-#### Co-op Program: Discovery Data Management & Analytics - News Monitoring with NLP and GenAI
+#### Co-op Program: IRIS News Curator: Intelligent Risk and Incident Sharing
 - Deloitte program.
 - Student: TAYDEY Charline.
 
